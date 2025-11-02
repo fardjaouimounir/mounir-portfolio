@@ -13,7 +13,7 @@ const Achievements = () => {
       icon: TrophyIcon,
       title: '1st Place - Programming & AI Olympiad',
       organization: 'University of M\'sila',
-      year: '2024',
+      year: '2025',
       color: 'from-yellow-500 to-orange-500',
     },
     {
@@ -27,14 +27,14 @@ const Achievements = () => {
       icon: AcademicCapIcon,
       title: 'Python Training Certificate',
       organization: 'AIH & Computer Science Dept.',
-      year: '2023',
+      year: '2024',
       color: 'from-green-500 to-emerald-500',
     },
     {
       icon: UserGroupIcon,
       title: 'Innovative Projects Exhibition',
       organization: 'ENSSM - National School',
-      year: '2023',
+      year: '2025',
       color: 'from-purple-500 to-pink-500',
     },
     {
@@ -48,7 +48,7 @@ const Achievements = () => {
       icon: UserGroupIcon,
       title: 'Tech Team Member',
       organization: 'Elec Club, Project 0',
-      year: '2022',
+      year: '2025',
       color: 'from-red-500 to-orange-500',
     },
   ];
