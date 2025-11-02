@@ -27,7 +27,7 @@ const Experience = () => {
       title: 'Frontend Developer',
       company: 'Elec Club, Project 0',
       location: 'University of M\'sila',
-      period: '2022 - 2023',
+      period: '2024 - 2025',
       description: [
         'Developed an educational web platform for university students',
         'Collaborated with tech team members to implement core features',
@@ -40,7 +40,7 @@ const Experience = () => {
       title: 'Master\'s Degree',
       company: 'Mohamed Boudiaf University of M\'sila',
       location: 'M\'sila, Algeria',
-      period: '2023 - 2025',
+      period: '2024 - 2025',
       description: [
         'Information System and Software Engineering',
         'Focus on full-stack web applications and intelligent systems',
@@ -53,7 +53,7 @@ const Experience = () => {
       title: 'Bachelor\'s Degree',
       company: 'Mohamed Boudiaf University of M\'sila',
       location: 'M\'sila, Algeria',
-      period: '2020 - 2023',
+      period: '2022 - 2023',
       description: [
         'Computer Science and Information Systems',
         'Graduated with honors',
